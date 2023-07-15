@@ -2,23 +2,23 @@
 
 ## Articoli
 
-- [https://edu.inaf.it/approfondimenti/scoperte/dante-e-lastronomia/]
-- [https://edu.inaf.it/approfondimenti/insegnare-astronomia/astronomia-divina-commedia-inferno/]
-- [https://gbm.difa.unibo.it/paola/didattica/AA2019-2020/SdA/Lezione_20_parte_1_a_cura_di_Andrea_Girolamodibari.pdf]
-- [https://www.antareslegnano.org/wp/2021/10/31/dante-alighieri-e-lastronomia/]
-- [https://www.passioneastronomia.it/il-cielo-di-dante-nella-divina-commedia/]
-- [https://disf.org/cielo-divina-commedia]
-- [https://www.ilnuovosaggiatore.sif.it/article/286]
-- [https://www.danteeilcinema.com/wp-content/uploads/2020/03/AIMONE-Astronomia-nella-Commedia.pdf]
+- [Dante e l&#8217;astronomia &#8211; EduINAF](https://edu.inaf.it/approfondimenti/scoperte/dante-e-lastronomia/)
+- [Astronomia nella Divina Commedia: L&#8217;Inferno &#8211; EduINAF](https://edu.inaf.it/approfondimenti/insegnare-astronomia/astronomia-divina-commedia-inferno/)
+- [ASTRONOMIA NELLA "COMMEDIA" - UNIBO (pdf)](https://gbm.difa.unibo.it/paola/didattica/AA2019-2020/SdA/Lezione_20_parte_1_a_cura_di_Andrea_Girolamodibari.pdf)
+- [Dante Alighieri e l’Astronomia - Antares Legnano](https://www.antareslegnano.org/wp/2021/10/31/dante-alighieri-e-lastronomia/)
+- [Il cielo di Dante nella Divina Commedia - Passione Astronomia](https://www.passioneastronomia.it/il-cielo-di-dante-nella-divina-commedia/)
+- [Osservando il cielo con la Divina Commedia - Disf.org](https://disf.org/cielo-divina-commedia)
+- [Dante Alighieri cosmography - Il nuovo saggiatore](https://www.ilnuovosaggiatore.sif.it/article/286)
+- [Astronomia nella Commedia - Dante e il cinema (pdf)](https://www.danteeilcinema.com/wp-content/uploads/2020/03/AIMONE-Astronomia-nella-Commedia.pdf)
 
 ## Video interessanti
 
 ### Conferenze complete
 
-- [https://www.youtube.com/watch?v=UuKL03Uue-Y]
-- [https://www.youtube.com/watch?v=FNTjajsuOJQ]
+- [Dante a l'astronomia - Liceo di Lugo](https://www.youtube.com/watch?v=UuKL03Uue-Y)
+- [L' Astronomia nella Divina Commedia - Amici di Dante in Casentino](https://www.youtube.com/watch?v=FNTjajsuOJQ)
 
 ### Video divulgativi
 
-- [https://www.youtube.com/watch?v=xybvnAhpUx8]
-- [https://www.youtube.com/watch?v=CdE1c3rytcI]
+- [La Divina Commedia: Dante Alighieri e l'astronomia - Edu INAF](https://www.youtube.com/watch?v=xybvnAhpUx8)
+- [La Divina Commedia: l'astronomia spiegata ai bambini - Edu INAF](https://www.youtube.com/watch?v=CdE1c3rytcI)
