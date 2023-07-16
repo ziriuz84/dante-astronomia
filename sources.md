@@ -17,8 +17,10 @@
 
 - [Dante a l'astronomia - Liceo di Lugo](https://www.youtube.com/watch?v=UuKL03Uue-Y)
 - [L' Astronomia nella Divina Commedia - Amici di Dante in Casentino](https://www.youtube.com/watch?v=FNTjajsuOJQ)
+- [ L'ASTRONOMIA IN DANTE E NELLA DIVINA COMMEDIA - Planetario di Ravenna](https://www.youtube.com/watch?v=hp8l0xIpNHQ)
 
 ### Video divulgativi
 
 - [La Divina Commedia: Dante Alighieri e l'astronomia - Edu INAF](https://www.youtube.com/watch?v=xybvnAhpUx8)
 - [La Divina Commedia: l'astronomia spiegata ai bambini - Edu INAF](https://www.youtube.com/watch?v=CdE1c3rytcI)
+- [Primum mobile, il viaggio dantesco e la cosmologia moderna - Società Dante Alighieri](https://www.youtube.com/watch?v=rPZjd-DKhQQ)
