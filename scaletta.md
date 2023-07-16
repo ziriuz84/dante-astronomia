@@ -1,0 +1,20 @@
+- Introduzione
+- Dante studioso: il Convivio
+- Il Sistema copernicano
+    - Aristotele
+    - Apollonio
+    - Ipparco di Nicea
+    - Tolomeo
+- Il sistema di Dante
+    - Terra sferica
+    - Risoluzione problema antipodi
+    - I 9 cieli
+- Dante: preciso astronomo o semplicemente poeta?
+- Il moto dei cieli: il cielo cristallino
+- La precessione degli equinozi
+- La descrizione dell'eclittica
+- La datazione del viaggio 
+- La descrizione della Via Lattea
+- Aurora
+- Venere mattutina?
+- La croce del sud?
