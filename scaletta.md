@@ -1,6 +1,6 @@
 - Introduzione
 - Dante studioso: il Convivio e il suo pensiero sull'astronomia
-- Il Sistema copernicano
+- Il Sistema Tolemaico
     - Aristotele
     - Apollonio
     - Ipparco di Nicea
@@ -12,7 +12,7 @@
 - Dante: preciso astronomo o semplicemente poeta?
     - Accenno sulla diatriba tra l'affidabilità di Dante come astronomo e la sua licenza poetica
 - Il moto dei cieli: il cielo cristallino
-    - Descrizione sull'origine del moto dei cieli
+    - Descrizione sull'origine del moto dei cieli v
 - La precessione degli equinozi
     - Versi in cui si fa riferimento alla precessione degli equinozi
 - La descrizione dell'eclittica
