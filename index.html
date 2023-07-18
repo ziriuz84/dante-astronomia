@@ -1,40 +1,148 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
 
-		<title>reveal.js</title>
+    <title>reveal.js</title>
 
-		<link rel="stylesheet" href="dist/reset.css">
-		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/black.css">
+    <link rel="stylesheet" href="dist/reset.css" />
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/serif.css" />
 
-		<!-- Theme used for syntax highlighted code -->
-		<link rel="stylesheet" href="plugin/highlight/monokai.css">
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
-			</div>
-		</div>
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="plugin/highlight/monokai.css" />
+    <style>
+      .reveal h1 {
+        font-size: 4rem;
+      }
+      .reveal h2 {
+        font-size: 3rem;
+      }
+      .citazione {
+        font-size: 1.5rem;
+      }
+      .image.fixed {
+        width: 50%;
+        margin: auto;
+      }
+      .image img {
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section>
+          <h1>L'Astronomia ai tempi<br />del Sommo Poeta</h1>
+          <h2>Un Paradiso di stelle</h2>
+          <img src="img/logo.png" />
+        </section>
+        <section>
+          <h2>Chi sono</h2>
+          <ul>
+            <li class="fragment">My name is Sirio Negri</li>
+            <li class="fragment">Astrofilo da sempre</li>
+            <li class="fragment">
+              Papà di Mistral e dell'Osservatorio Il Coreggiolo
+            </li>
+            <li class="fragment">M16</li>
+          </ul>
+        </section>
+        <section>
+          <h2>Dante Studioso</h2>
+          <div class="citazione fragment">
+            28. E lo cielo di Saturno hae due proprietadi per le quali si può
+            comparare a l’Astrologia: l’una sì è la tardezza del suo movimento
+            per li dodici segni, chè ventinove anni e più, secondo le scritture
+            de li astrologi, vuole di tempo lo suo cerchio; l’altra sì è che
+            sopra tutti li altri pianeti esso è alto. <br />
+            29. E queste due proprietadi sono ne l’Astrologia: chè nel suo
+            cerchio compiere, cioè ne lo apprendimento di quella, volge
+            grandissimo spazio di tempo, sì per le sue [dimostrazioni], che sono
+            più che d’alcuna de le sopra dette scienze, sì per la esperienza che
+            a ben giudicare in essa si conviene. <br />
+            30. E ancora è altissima di tutte le altre, però che, sì come dice
+            Aristotile nel cominciamento de l’Anima, la scienza è alta di
+            nobilitade per la nobilitade del suo subietto e per la sua certezza;
+            e questa più che alcuna de le sopra dette è nobile e alta per nobile
+            e alto subietto, ch’è de lo movimento del cielo; e alta e nobile per
+            la sua certezza, la quale è sanza ogni difetto, sì come quella che
+            da perfettissimo e regolatissimo principio viene. E se difetto in
+            lei si crede per alcuno, non è da la sua parte, ma, sì come dice
+            Tolomeo, è per la negligenza nostra, e a quella si dee imputare.
+          </div>
+        </section>
+        <section>
+          <section>
+          <h2>Il Sistema Tolemaico</h2>
+          <h3>Aristotele e le sfere armillari</h3>
+            <div class="image fixed">
+              <img src="img/armillare.jpg" alt="" />
+            </div>
+          </section>
+          <section>
+          <h2>Il Sistema Tolemaico</h2>
+            <h3>Apollonio e gli epicicli</h3>
+            <div class="image fixed">
+              <img src="img/epiciclo.svg" alt="" />
+            </div>
+          </section>
+          <section>
+          <h2>Il Sistema Tolemaico</h2>
+            <h3>
+              Ipparco di Nicea: l'eclittica e la precessione degli equinozi
+            </h3>
+            <div class="image fixed">
+              <img src="img/eclittica.png" alt="" />
+            </div>
+          </section>
+          <section>
+          <h2>Il Sistema Tolemaico</h2>
+            <h3>Tolomeo</h3>
+            <div class="image fixed">
+              <img src="img/tolemaico.gif" alt="" />
+            </div>
+          </section>
+        </section>
+        <section>
+          <h2>L'universo secondo Dante</h2>
+            <div class="image fixed">
+              <img src="img/universo-dante.jpg" alt="" />
+            </div>
+        </section>
+        <section>
+          <h2>Dante: preciso Astronomo o semplice poeta?</h2>
+          <ul>
+            <li class="fragment">Descrizioni dettagliate</li>
+            <li class="fragment">Grande conoscenza dell'astronomia del tempo</li>
+            <li class="fragment">Incongruenze temporali</li>
+            <li class="fragment">Errori "astronomici"</li>
+          </ul>
+        </section>
+      </div>
+    </div>
 
-		<script src="dist/reveal.js"></script>
-		<script src="plugin/notes/notes.js"></script>
-		<script src="plugin/markdown/markdown.js"></script>
-		<script src="plugin/highlight/highlight.js"></script>
-		<script>
-			// More info about initialization & config:
-			// - https://revealjs.com/initialization/
-			// - https://revealjs.com/config/
-			Reveal.initialize({
-				hash: true,
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script>
+      // More info about initialization & config:
+      // - https://revealjs.com/initialization/
+      // - https://revealjs.com/config/
+      Reveal.initialize({
+        hash: true,
 
-				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
-			});
-		</script>
-	</body>
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+      });
+    </script>
+  </body>
 </html>
